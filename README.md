@@ -2,7 +2,7 @@
 
 ## Requirements
   * NumPy >= 1.11.1
-  * Keras >= 2.0 (Probably 1.1 should work, too, though I didn't test it)
+  * Keras >= 2.0 (Using TensorFlow in backend)
   * Python >= 3.4
 
 ## Available Architectures
@@ -16,6 +16,6 @@
 
 ## Steps
   * In the first line Import the name of the model by using the import command and specifying the model name:
-   * for Resnet 
+	* for Resnet 
   * Specify the dir path of the training and validation dataset in the PATH and size of the image in sz and the batch size. 
   * 
